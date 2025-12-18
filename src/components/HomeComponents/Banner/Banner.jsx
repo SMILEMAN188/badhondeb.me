@@ -63,7 +63,7 @@ const Banner = () => {
                 <TiSocialLinkedin />
               </a>
               <a
-                href="https://github.com/Yamin39/"
+                href="https://github.com/SMILEMAN188"
                 target="_blank"
                 className="p-2 border-primary-color border rounded-full hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-down"
@@ -73,7 +73,7 @@ const Banner = () => {
                 <FiGithub />
               </a>
               <a
-                href="https://www.facebook.com/mhyamin39/"
+                href="https://web.facebook.com/hellooooooooooooooooooooooooo0/"
                 target="_blank"
                 className="text-2xl border-primary-color border rounded-full p-1 hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-up"
@@ -83,7 +83,7 @@ const Banner = () => {
                 <TiSocialFacebook />
               </a>
               <a
-                href="https://www.instagram.com/yam_in39/"
+                href="https://www.instagram.com/smile188man/"
                 target="_blank"
                 className="border-primary-color border rounded-full p-2 hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-down"
@@ -93,7 +93,7 @@ const Banner = () => {
                 <FaInstagram />
               </a>
               <a
-                href="https://x.com/Mufazzal_Yamin/"
+                href=""
                 target="_blank"
                 className="hidden sm:inline text-base p-2 border-primary-color border rounded-full hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-up"

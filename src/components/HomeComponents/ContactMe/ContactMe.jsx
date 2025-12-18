@@ -41,7 +41,7 @@ const ContactMe = () => {
           Contact me
         </h1>
         <p className="text-sm sm:text-base leading-[1.8] sm:leading-[1.7]" data-aos="fade-up" data-aos-delay="150">
-          I&apos;m currently available to take on new projects, also available to be hired! so feel free to send me a message.
+          I&apos;m currently not available to take on new projects, but my inbox is always open. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
         </p>
       </div>
 
@@ -127,7 +127,7 @@ const ContactMe = () => {
 
             <div className="flex items-center gap-5 text-primary-color mt-5">
               <a
-                href="https://www.linkedin.com/in/mufazzal-hossain-yamin/"
+                href="https://www.linkedin.com/in/badhon-deb-hpi/"
                 target="_blank"
                 className="text-[1.375rem] p-[0.375rem] border-primary-color border rounded-full hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-up"
@@ -137,7 +137,7 @@ const ContactMe = () => {
                 <TiSocialLinkedin />
               </a>
               <a
-                href="https://github.com/Yamin39/"
+                href="https://github.com/SMILEMAN188"
                 target="_blank"
                 className="p-2 border-primary-color border rounded-full hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-down"
@@ -147,7 +147,7 @@ const ContactMe = () => {
                 <FiGithub />
               </a>
               <a
-                href="https://www.facebook.com/mhyamin39/"
+                href="https://web.facebook.com/hellooooooooooooooooooooooooo0/"
                 target="_blank"
                 className="text-2xl border-primary-color border rounded-full p-1 hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-up"
@@ -157,7 +157,7 @@ const ContactMe = () => {
                 <TiSocialFacebook />
               </a>
               <a
-                href="https://www.instagram.com/yam_in39/"
+                href="https://www.instagram.com/smile188man/"
                 target="_blank"
                 className="border-primary-color border rounded-full p-2 hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-down"
@@ -167,7 +167,7 @@ const ContactMe = () => {
                 <FaInstagram />
               </a>
               <a
-                href="https://x.com/Mufazzal_Yamin/"
+                href=""
                 target="_blank"
                 className="hidden sm:inline text-base p-2 border-primary-color border rounded-full hover:bg-primary-color hover:text-white hover:shadow-xl active:scale-90 duration-300"
                 data-aos="fade-up"
