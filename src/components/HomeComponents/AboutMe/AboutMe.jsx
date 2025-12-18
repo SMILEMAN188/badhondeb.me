@@ -1,7 +1,7 @@
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { HiLanguage } from "react-icons/hi2";
 import { LiaBirthdayCakeSolid } from "react-icons/lia";
-import aboutImg from "../../../assets/images/yamin2.jpg";
+import aboutImg from "../../../assets/images/badhon2.jpg";
 import "./AboutMe.css";
 
 const AboutMe = () => {
@@ -52,7 +52,7 @@ const AboutMe = () => {
         </h1>
 
         <p className="mt-5 text-sm sm:text-base leading-[1.8] sm:leading-[1.85]" data-aos="fade-up" data-aos-delay="200">
-          Hi, I&apos;m Md Mufazzal Hossain Yamin, a <strong>web developer</strong> skilled in <strong>HTML, CSS, JavaScript,</strong> and{" "}
+          Hi, I&apos;m Tanmoy Deb Badhon, a <strong>web developer</strong> skilled in <strong>HTML, CSS, JavaScript,</strong> and{" "}
           <strong>modern frameworks</strong>. I&apos;ve completed several personal and collaborative projects, specializing in{" "}
           <strong>responsive designs</strong> and <strong>seamless user experiences</strong>. I&apos;m passionate about building{" "}
           <strong>impactful digital solutions</strong> and continuously improving my skills. Excited to contribute to innovative projects and make a{" "}
@@ -62,11 +62,11 @@ const AboutMe = () => {
         <ul className="mt-4 space-y-1 sm:space-y-0">
           <li className="flex gap-3 items-center" data-aos="fade-up" data-aos-delay="300">
             <LiaBirthdayCakeSolid className="text-xl sm:text-[1.5625rem] text-primary-color" />
-            <span className="text-sm leading-[2] sm:text-[1rem]">December 22, 2006</span>
+            <span className="text-sm leading-[2] sm:text-[1rem]">December 27, 2006</span>
           </li>
           <li className="flex gap-3 items-center" data-aos="fade-up" data-aos-delay="400">
             <HiOutlineLocationMarker className="text-xl sm:text-[1.5625rem] text-primary-color" />
-            <span className="text-sm leading-[2] sm:text-[1rem]">Sylhet Sadar, Sylhet, Bangladesh</span>
+            <span className="text-sm leading-[2] sm:text-[1rem]">Habiganj, Sylhet, Bangladesh</span>
           </li>
           <li className="flex gap-3 items-center" data-aos="fade-up" data-aos-delay="500">
             <HiLanguage className="text-xl sm:text-[1.5625rem] text-primary-color" />

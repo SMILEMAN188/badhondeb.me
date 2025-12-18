@@ -25,8 +25,7 @@ const Education = () => {
             <div className="timeline-start mb-10 md:text-end">
               <p className="text-lg font-semibold text-[#7331f8]">P.S.C</p>
               <p className="font-mono italic">2012 - 2017</p>
-              <div className="text-2xl font-black">Shishu Niketon Kinder Garden</div>I completed my primary education at Shishu Niketon Kindergarten, studying
-              from January 2012 to December 2017, and graduated by passing the P.S.C. board examination in 2017.
+              <div className="text-2xl font-black">Barabazar Adarsh Government Primary School</div>I completed my primary education at Barabazar Adarsh Government Primary School <br />in Baniachang, Habiganj studying from January 2012 to December 2017, and graduated by passing the P.S.C. board examination in 2017.
             </div>
             <hr />
           </li>
@@ -64,8 +63,8 @@ const Education = () => {
             <div className="timeline-start mb-10 md:text-end">
               <p className="text-lg font-semibold text-[#7331f8]">Diploma in CST</p>
               <p className="font-mono italic">2023 - Current</p>
-              <div className="text-2xl font-black">Sylhet Polytechnic Institute</div>I am currently pursuing a diploma in Computer Science and Technology at
-              Sylhet Polytechnic Institute, Sylhet. I began my studies in October 2023, with an expected graduation in 2027.
+              <div className="text-2xl font-black">Habiganj Polytechnic Institute</div>I am currently pursuing a diploma in Computer Science and Technology at
+              Habiganj Polytechnic Institute, Sylhet. I began my studies in October 2023, with an expected graduation in 2027.
             </div>
             <hr />
           </li>

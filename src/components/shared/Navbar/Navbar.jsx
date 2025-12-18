@@ -64,7 +64,7 @@ const Navbar = () => {
             <div>
               <Link to="/" className="flex items-center gap-3">
                 <p className="font-semibold text-2xl lg:text-3xl">
-                  <span className="text-primary-color">Yamin</span>.
+                  <span className="text-primary-color">Badhon</span>.
                 </p>
               </Link>
             </div>

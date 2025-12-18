@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-[1440px] w-10/12 mx-auto">
         <div>
           <Link to="/" className="flex items-center gap-3">
-            <p className="font-semibold text-2xl lg:text-4xl mx-auto">Yamin.</p>
+            <p className="font-semibold text-2xl lg:text-4xl mx-auto">Badhon.</p>
           </Link>
         </div>
       </div>
@@ -63,7 +63,7 @@ const Footer = () => {
       <p className="mt-5 text-[#cdbde9]">
         © {new Date().getFullYear()} All Rights Reserved by{" "}
         <a className="font-semibold" href="https://mhyamin.me">
-          mhyamin.me
+          badhon.me
         </a>
       </p>
 

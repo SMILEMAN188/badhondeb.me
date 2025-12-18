@@ -188,7 +188,7 @@ const ContactMe = () => {
               <li className="flex gap-3 items-center" data-aos="fade-up" data-aos-delay="300">
                 <HiOutlineMailOpen className="text-xl sm:text-[1.5625rem] text-primary-color" />
                 <a href="mailto:mdmufazzalhossainyamin5010@gmail.com" className="text-sm leading-[2] sm:text-[1rem]">
-                  mdmufazzalhossainyamin5010@gmail.com
+                  badhondeb999@gmail.com
                 </a>
                 <MdContentCopy
                   className="opacity-50 cursor-pointer"
@@ -203,7 +203,7 @@ const ContactMe = () => {
               <li className="flex gap-3 items-center" data-aos="fade-up" data-aos-delay="400">
                 <MdOutlinePhone className="text-xl sm:text-[1.5625rem] text-primary-color" />
                 <a href="tel:+8801626639229" className="text-sm leading-[2] sm:text-[1rem]">
-                  +8801626639229
+                  +8801748100318
                 </a>
                 <MdContentCopy
                   className="opacity-50 cursor-pointer"

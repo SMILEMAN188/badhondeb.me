@@ -4,7 +4,7 @@ import { LuDownload } from "react-icons/lu";
 import { RiTwitterXLine } from "react-icons/ri";
 import { TiSocialFacebook, TiSocialLinkedin } from "react-icons/ti";
 import { Typewriter } from "react-simple-typewriter";
-import img from "../../../assets/images/yamin.jpg";
+import img from "../../../assets/images/badhon.jpg";
 import resume from "../../../assets/md-mufazzal-hossain-yamin_frontend-developer_resume.pdf";
 
 const Banner = () => {
@@ -24,7 +24,7 @@ const Banner = () => {
           >
             Hello I&apos;m <br />
             <span className="text-primary-color">
-              <Typewriter words={["Mufazzal Hossain Yamin"]} typeSpeed={60} />
+              <Typewriter words={["Tanmoy Deb Badhon"]} typeSpeed={100} />
             </span>
           </h1>
           <p
